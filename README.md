@@ -59,7 +59,7 @@ This project adheres to the **MVC (Model-View-Controller)** design pattern to en
 ### Steps to Run
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/your-username/Learning-Assistant.git](https://github.com/your-username/Learning-Assistant.git)
+    git clone [https://github.com/DNethmina/Learning_Assistant)
     ```
 2.  **Database Configuration**
     * Open your MySQL Workbench or Command Line.
